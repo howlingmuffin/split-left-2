@@ -1,0 +1,9 @@
+if SHIELD_Left_Boi
+
+config ZMK_KEYBOARD_NAME
+    default "Left_Boi"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
